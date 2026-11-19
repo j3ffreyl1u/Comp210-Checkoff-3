@@ -41,7 +41,7 @@ Same network as 172.16.5.130? no
 
 **Presentation**
 
-Slides: Attached in the Repository (But if it isn't working, here is the Canva Link https://canva.link/1mewobq5vifmivh)
+Slides: Attached in the Repository (But if it isn't working, here is the Canva Link: https://canva.link/1mewobq5vifmivh)
 
 **Resources**
 My AI learning conversation: https://claude.ai/share/f556f2f1-773a-478a-b47f-cb1c84216f53
